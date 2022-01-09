@@ -30,7 +30,7 @@ For configuring Paperplane, you can check out our [Wiki](https://wiki.raphielgan
 make sure you have followed the Wiki and all the steps required. Before clicking the Deploy to Heroku button without thinking, please go ahead and read the wiki, which has a lot of important stuff you need to know about and things you should prepare for Paperplane.
 
 Deploy Paperplane to Heroku:
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/RaphielGang/Telegram-Paperplane"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/VikasDhavande/Telegram-Paperplane"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ## Groups and support
 
